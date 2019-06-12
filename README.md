@@ -3,6 +3,6 @@
 This repository consists of a set of basic web scraping scripts.
 
 
-#Required Modules
+Required Modules
 - BeautifulSoup module
 - Requests module
